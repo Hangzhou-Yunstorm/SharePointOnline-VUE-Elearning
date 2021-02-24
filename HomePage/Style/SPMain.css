@@ -1,0 +1,204 @@
+﻿body{
+    font-size: 14px;
+}
+
+legend{
+    font-size: 14px !important;
+}
+
+.o365cs-base.o365cs-topnavBGColor-2 {
+    background-color: #000 !important;
+}
+
+#contentBox {
+    margin: 0 10%;
+}
+
+#contentRow {
+    padding-top: 30px;
+}
+
+#sideNavBox, #DeltaTopNavigation, #pageTitle, #DeltaPlaceHolderSearchArea, #O365_MainLink_Settings, #CSRSaveAsNewViewDivWPQ1{
+    display: none;
+}
+
+li.static.ms-verticalAlignTop.ms-listMenu-editLink.ms-navedit-editArea {
+    display: none;
+}
+
+#MySiteTitle{
+    position: absolute;
+    top:15px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+#MySiteTitle a{
+    color:#434343;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+#MySiteTitle a:visited{
+	color:#434343;
+}
+
+.ms-breadcrumb-box.ms-tableCell.ms-verticalAlignTop {
+    height: 34px;
+    line-height: 34px;
+}
+
+.ms-breadcrumb-top{
+    margin-top:40px;
+}
+
+li.static a{
+    margin: 0 !important;
+    padding: 0 10px;
+    color: #4f4f4f !important;
+    font-weight:500;
+    font-size: 15px;
+
+}
+
+li.static a:hover{
+    color: #fa8919 !important;
+}
+
+input.ms-navedit-editButton{
+    height:34px;
+}
+
+.mySearchBox {
+    display: inline-block;
+    height: 32px !important;
+    margin-right: 0;
+    position: absolute;
+    right: 25px;
+    top: 25px;
+}
+
+.myInputBox {
+    float: left;
+    display: inline-block;
+    border: 1px solid #818181;
+    width: 240px;
+    height: 32px !important;
+    box-sizing: border-box;
+    padding-left: 5px;
+    position:relative;
+    outline: none;
+    font-size: 14px;
+    padding-right: 26px;
+}
+
+.myInputBox:focus, .myInputBox:hover{
+    border: 1px solid #818181 !important;
+}
+
+.mySearchButton {
+    cursor: pointer;
+    position: absolute;
+}
+
+    .mySearchButton img {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        left: -26px;
+        top: 6px;
+    }
+    
+#main_navbar{
+    z-index: 1;
+	height: 35px;
+	background: #fff !important;
+}
+    
+ul.dropdown-menu{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+ul.dropdown-menu li{
+    border: 1px solid #eee;
+}
+
+a.nav-link, a.dropdown-item{
+	color: #4b4b4b !important;
+}
+
+a.dropdown-item:hover{
+	color: #fff !important;
+}
+
+a.nav-link{
+    cursor: pointer;
+    font-size: 14px;
+}
+
+a.nav-link.active {
+    color: #fa8919 !important;
+}
+
+a.nav-link:hover{
+    color: #fa8919 !important;
+}
+
+.ms-InlineSearch-Outline-Baseline{
+    height: 28px !important;
+    width: 190px !important;
+    margin: 0 !important;
+}
+
+.ms-InlineSearch-Outline-Baseline input{
+    width: 155px !important;
+}
+
+
+a.ms-commandLink.ms-promlink-button.ms-promlink-button-enabled {
+    width: 28px;
+    height: 28px;
+    padding: 5px;
+}
+
+input.ms-cui-cb-input{
+    width: 120px !important;
+	height: 22px !important;
+}
+
+a.ms-cui-dd-arrow-button{
+	width: 15px !important;
+    height: 22px !important;
+    padding-left: 4px !important;
+}
+
+a.ms-cui-ctl, a.ms-cui-ctl-medium{
+	height: 22px !important;
+}
+
+.ms-cui-gallerybutton-Size64by48{
+	height: 60px !important;
+}
+
+.ms-cui-gallerybutton-Size64by48 .ms-cui-gallerybutton-a {
+    height: 54px !important;
+    width: 62px !important;
+}
+
+.ms-cui-fslb, .ms-cui-dd-text, span.ms-cui-ctl {
+    height: 22px !important;
+}
+
+span.ms-cui-ctl .ms-cui-ctl-a1, span.ms-cui-ctl .ms-cui-ctl-a2 {
+    height: 22px !important;
+}
+
+span#dlgTitleBtns{
+    margin-right: 0;
+}
+
+
+
+

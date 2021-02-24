@@ -1,0 +1,7 @@
+﻿#O365_MainLink_Settings{
+    display: block;
+}
+
+li.static.ms-verticalAlignTop.ms-listMenu-editLink.ms-navedit-editArea {
+    display: inline-block;
+}

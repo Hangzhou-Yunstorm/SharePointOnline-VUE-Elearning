@@ -1,0 +1,141 @@
+﻿#s4-ribbonrow{
+    display:none;
+}
+
+.row {
+    margin: 0;
+}
+
+#home_content {
+    padding: 30px;
+}
+
+#page_list {
+    padding-bottom: 15px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+    #page_list a {
+        font-size: 14px;
+        margin-right: 10px;
+        color: #6a6a6a;
+        padding: 10px 15px;
+        text-decoration: none;
+    }
+
+.activePage {
+    border: 1px solid #fbf5ee;
+    border-radius: 20px;
+    color: #fa8919 !important;
+    background: #fbf5ee;
+}
+
+#page_sort {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
+    #page_sort a {
+        font-size: 14px;
+        margin-right: 10px;
+        color: #6a6a6a;
+        padding: 5px 10px;
+        text-decoration: none;
+    }
+
+.activea {
+    border: 1px solid #fbf5ee;
+    border-radius: 20px;
+    color: #fa8919 !important;
+    background: #fbf5ee;
+}
+
+.page_text{
+	padding-left:0;
+}
+
+.page_title a {
+    font-size: 20px;
+    color: #3b3b3b;
+}
+
+.like_span {
+    float: right;
+    font-size: 12px;
+    color: #5c5c5c;
+}
+
+.page_author {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.page_type {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.page_description{
+    font-size: 12px;
+    margin-bottom: 18px;
+    text-align: justify;
+}
+
+.page_btn {
+    position: inherit;
+    float: right;
+}
+
+    .page_btn a {
+        padding: 8px 15px;
+        color: #fff;
+        background: #fa8919;
+        border-radius: 5px;
+        font-size: 14px;
+        cursor: pointer;
+        font-weight: 400;
+        text-decoration: none;
+    }
+
+.page_train {
+    border-top: 1px solid #eee;
+    padding: 20px 5px;
+}
+
+.thum_img {
+    width: 100%;
+    max-height: 240px;
+    -webkit-box-shadow: 2px 2px 5px #999999;
+    box-shadow: 2px 2px 5px #999999;
+}
+
+.type_title {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.popular_title{
+    margin-top: 30px;
+	margin-bottom:15px;
+}
+
+.page_slider{
+	width:100%;
+    border-top: 1px solid #eee;
+    padding: 15px;
+}
+
+.slider_img{
+	width:100%;
+	max-height:150px;
+	-webkit-box-shadow: 2px 2px 5px #999999;
+    box-shadow: 2px 2px 5px #999999;
+}
+
+li.static a.actived{
+    color: #fa8919 !important;
+    border-bottom: 3px solid #fa8919 !important;
+}
+

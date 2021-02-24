@@ -1,0 +1,118 @@
+﻿#s4-ribbonrow{
+    display:none;
+}
+
+#s4-titlerow{
+    display: block !important;
+}
+
+td.ms-formlabel, td.ms-toolbar{
+    display: none;
+}
+
+table{
+	width: 100%;
+}
+
+#SPFieldText{
+	background-image: url(/sites/IT-eLearning/HomePage/Images/details.jpg);
+    background-position: 50% 50%;
+    transform: translate3d(0px, 0px, 0px);
+    padding: 180px 0 20px 20px;
+    font-size: 28px;
+}
+
+.ms-rtestate-field{
+    margin-top: 20px;
+}
+
+#like_view{
+    width: 100%;
+    padding: 15px 0;
+    border-top: 1px solid #eee;
+    position:fixed;
+	z-index: 999;
+	bottom:0;
+    background:#fff;
+}
+
+#like_span, #view_span{
+    font-size: 16px;
+    display: inline-block;
+    padding-right:30px;
+}
+
+#removelike{
+    display: none;
+}
+
+.ms-formtable tr{
+    display: none;
+}
+
+.ms-formtable tr:nth-child(1)
+{
+    display: table-row;
+}
+
+.ms-formtable tr:nth-child(2)
+{
+    display: table-row;
+}
+
+td#SPFieldNote tr {
+    display: table-row;
+}
+
+.ms-rtestate-read.ms-rte-embedcode.ms-rtestate-notify.ms-rte-embedil {
+    width: 100%;
+}
+
+ol{
+    font-size: 14px;
+}
+
+.top_title_p{
+	width: 98%;
+    margin: 10px 1% !important;
+    font-size: 20px;
+}
+
+.top_url_p2{
+	width: 48%;
+    margin: 10px 1% !important;
+    float: left;
+    height: 60px;
+    line-height: 60px !important;
+}
+
+
+.top_url_p{
+	width: 48%;
+    margin: 10px 1% !important;
+    background: #8764b8;
+    float: left;
+    height: 60px;
+    line-height: 60px !important;
+}
+
+.top_url_p img{
+    margin: 8px !important;
+    width: 24px !important;
+}
+
+.top_url_p a{
+    color:#fff !important;
+    font-size: 16px !important;
+    word-break: break-all;
+}
+
+.top_url_p a:visited{
+    color:#fff !important;
+}
+
+
+
+
+
+
